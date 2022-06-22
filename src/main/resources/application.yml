@@ -1,0 +1,7 @@
+it:
+  fra:
+    test:
+      proxy:
+        TvSeriesProxy/mp-rest/uri: https://api.tvmaze.com
+        TvSeriesProxy/mp-rest/scope: javax.inject.Singleton
+
