@@ -1,10 +1,10 @@
 package it.fra.test.model;
 
+import lombok.Data;
+
 import java.net.URL;
 import java.util.List;
 import java.util.Set;
-
-import lombok.Data;
 
 @Data
 public class TvSerie {
@@ -17,5 +17,5 @@ public class TvSerie {
     private URL officialSite;
     private String summary;
     private List<Episode> episodes;
-    
+
 }

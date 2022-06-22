@@ -1,8 +1,8 @@
 package it.fra.test.model;
 
-import java.net.URL;
-
 import lombok.Data;
+
+import java.net.URL;
 
 @Data
 public class Episode {
